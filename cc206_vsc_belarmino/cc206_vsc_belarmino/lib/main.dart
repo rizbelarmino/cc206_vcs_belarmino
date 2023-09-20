@@ -1,4 +1,4 @@
-// {Rizalie Belarmino}: {Kindness is a true beauty and power.}
+//{Rizalie Belarmino}: {Kindness is a true beauty and power.}
 import 'package:flutter/material.dart';
 
 void main() {
