@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 // {Rizalie Belarmino}: {Kindness is a true beauty and power}
-
-
 =======
 import 'package:flutter/material.dart';
 
